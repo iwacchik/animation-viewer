@@ -1,0 +1,2 @@
+# animation-viewer
+PlaycanvasのRenderコンポーネントとAnimコンポーネントを使ったモデルアニメーションビューワーです。
